@@ -2,7 +2,8 @@
 - Python app simple interface stopwatch
 # Features
 Start, Stop, and Reset buttons, displaying hours, minutes, seconds, and milliseconds.
-#screenshots
+
+#Screenshots
 - image 1
 <img width="1600" height="900" alt="s2" src="https://github.com/user-attachments/assets/ee59ffbe-33f7-4169-8c81-c133f697e718" />
 
