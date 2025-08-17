@@ -1,6 +1,6 @@
 # Stopwatch
 - Python app simple interface stopwatch
-# Features
+# ✨Features
 Start, Stop, and Reset buttons, displaying hours, minutes, seconds, and milliseconds.
 
 #Screenshots
